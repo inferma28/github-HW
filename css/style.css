@@ -100,3 +100,11 @@ body {
       width: 100%;
 }
 
+footer {
+    flex-shrink: 0;
+    background:#808000;
+}
+
+.footer_text {
+    text-align: center;
+}
